@@ -1,0 +1,51 @@
+Linux magda 2.6.32-29-generic #57-Ubuntu SMP Sun Jan 30 06:01:15 UTC 2011 x86_64 GNU/Linux
+    64 bit Python 2.6.5
+        empty    0       2.22
+        none    20       8.38  8
+        one     20       8.38  8
+        tuple   20     132.87  132
+        named   20     141.76  141
+        list    20     164.86  164
+        dict    20     345.49  345
+        flat    20      65.98  65
+        array   20      16.23  16
+        object  20     412.52  412
+        slots   20     124.49  124
+
+    64 bit Python 3.1.2
+        empty    0       3.88
+        none    20       8.52  8
+        one     20       8.52  8
+        tuple   20     131.68  131
+        named   20     140.73  140
+        list    20     163.61  163
+        dict    20     345.34  345
+        flat    20      65.89  65
+        array   20      16.39  16
+        object  20     411.39  411
+        slots   20     123.42  123
+Linux hania 2.6.31-22-generic #73-Ubuntu SMP Fri Feb 11 17:36:01 UTC 2011 i686 GNU/Linux
+    32 bit Python 2.6.4
+        empty    0       1.57
+        none    20       4.15  4
+        one     20       4.15  4
+        tuple   20      69.16  69
+        named   20      77.39  77
+        list    20      85.12  85
+        dict    20     179.63  179
+        flat    20      40.41  40
+        array   20      16.43  16
+        object  20     212.39  212
+        slots   20      69.15  69
+    32 bit Python 3.1.1+
+        empty    0       2.62
+        none    20       4.23  4
+        one     20       4.23  4
+        tuple   20      69.64  69
+        named   20      78.02  78
+        list    20      85.64  85
+        dict    20     182.25  182
+        flat    20      40.71  40
+        array   20      16.23  16
+        object  20     215.39  215
+        slots   20      69.64  69 
